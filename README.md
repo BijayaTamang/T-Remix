@@ -25,6 +25,8 @@ uninstall command
 $ uninstall-T-Remix
 
 
-
-### YT PLEASE SUBSCRIBE
+YT PLEASE SUBSCRIBE
 (https://www.youtube.com/@BIJAYATMG577)
+
+TIK TOK
+(tiktok.com/@b_i_j_a_y_a__577)
