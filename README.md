@@ -18,3 +18,8 @@ $ chmod +x *
 
 $ bash t-remix.sh
 ``
+
+
+
+uninstall command
+$ uninstall-T-Remix
