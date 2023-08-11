@@ -23,3 +23,8 @@ $ bash t-remix.sh
 
 uninstall command
 $ uninstall-T-Remix
+
+
+
+### YT PLEASE SUBSCRIBE
+(https://www.youtube.com/@BIJAYATMG577)
