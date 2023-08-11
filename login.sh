@@ -2,7 +2,7 @@
 # T-Remix password login setup
 #########################################
 #         Project : T-Remix             #
-#          Author: Ashish               #
+#          Author: BIJAYA              #
 #           T-Remix 2.0                 #
 #########################################
 
