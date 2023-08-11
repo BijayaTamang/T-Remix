@@ -1,8 +1,9 @@
 #!/data/data/com.termux/files/usr/bin/bash
 ######################################
 #        PROJECT: T-Remix            #
-#        Author: Ashish              #
-#  email: ashishsingh103020@gmailcom #
+#        Author: BIJAYA             #
+#  EMAIL:tamang.bijaya575@gmail.com #
+#      All copyright reserved        #
 ######################################
 
 # Installing the following packages to install T-Remix
@@ -81,7 +82,8 @@ echo "
 
 echo
 echo "             ☆:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::☆" |lolcat -t
-echo "                             s c r i p t  b y  a s h i s h            " |lolcat -t
+echo "                             s c r i p t  b y  b i j a y a
+" |lolcat -t
 echo "             ☆:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::☆" |lolcat -t
 
 sleep 3
@@ -185,7 +187,7 @@ echo -e "\e[32m
 		       ╚══════╝ ╚════╝  ╚═════╝ ╚═╝╚═╝  ╚══╝ v 2.0 "
 echo 
 echo "            ☆:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::☆" |lolcat -t
-echo "                            s c r i p t  b y  a s h i s h            " |lolcat -t
+echo "                            s c r i p t  b y  b i j a y a            " |lolcat -t
 echo "            ☆:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::☆" |lolcat -t
 
 sleep 4
@@ -794,18 +796,18 @@ read answer
 tput cup 12 22
 echo -e "\e[104m hello! Open a New session!! $answer! \e[m"
 tput cup 15 0
-echo -en "\e[93m Have you subscribe our channel (y/n)? \e[m "
+echo -en "\e[93m Have you subscribe our channel and follow on tik tok (y/n)? \e[m "
 read answer
 
 if [ "$answer" != "${answer#[Yy]}" ] ;then
 tput cup 17 21
-    echo -e "\e[42m Thankyou for subscribing our channel \e[m"
+    echo -e "\e[42m Thankyou for subscribing and following\e[m"
 else
 tput cup 17 23
     echo -e "\e[41m Please subsrcibe our channel \e[m"
 fi
 tput cup 20 0
-figlet -f slant "Bhavik Tutorials" |lolcat
+figlet -f slant "yt BIJAYA TMG577 tik tok b_i_j_a_y_a__577" |lolcat
 
 #done setting up Termux terminal as a real hacker
 
